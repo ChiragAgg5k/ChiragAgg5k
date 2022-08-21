@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChiragAgg5k
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python's basics and intermediate modules
-- 💞️ I’m looking to collaborate on nothing atm
+- 👀 I’m interested in computers and stuff
+- 🌱 I’m currently learning computers and stuff
+- 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me, dont
 
 <!---
