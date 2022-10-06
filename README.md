@@ -12,7 +12,7 @@ Chirag Aggarwal</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
 
-- 🌱 I’m currently learning Java && C++ <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Java && C++ from <a href="https://www.udemy.com/course/java-the-complete-java-developer-course/" target="blank">Udemy</a>
 
 - 📫 How to reach me **chiragaggarwal5k@gmail.com**
 
@@ -21,7 +21,7 @@ Chirag Aggarwal</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chirag-aggarwal-066b97248/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
