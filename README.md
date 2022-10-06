@@ -12,8 +12,7 @@ Chirag Aggarwal</a></h1>
 
 - 📫 How to reach me **chiragaggarwal5k@gmail.com**
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<iframe src="https://giphy.com/embed/wvQIqJyNBOCjK" width="480" height="387" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glee-image-wiki-wvQIqJyNBOCjK">via GIPHY</a></p>
+<h3 align="center" > <img src="https://giphy.com/gifs/glee-image-wiki-wvQIqJyNBOCjK" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chirag-aggarwal-066b97248/">
