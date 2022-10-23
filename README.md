@@ -8,8 +8,6 @@ Chirag Aggarwal</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif">
 </a>
 
-<br />
-
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
 
 - 🌱 I’m currently learning Java && C++ from <a href="https://www.udemy.com/course/java-the-complete-java-developer-course/" target="blank">Udemy</a>
