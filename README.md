@@ -45,4 +45,3 @@ Chirag Aggarwal</a></h1>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=gruvbox)](https://git.io/streak-stats)
 </div>
 
-[![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
