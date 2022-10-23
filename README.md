@@ -2,9 +2,14 @@
 Chirag Aggarwal</a></h1>
 <h3 align="center">A passionate computer science student from Noida, India🇮🇳 &#127470;&#127475</h3>
 
+<br />
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif">
 </a>
+
+<br />
+<br />
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
 
@@ -29,3 +34,5 @@ Chirag Aggarwal</a></h1>
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 </p>
+
+[![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
