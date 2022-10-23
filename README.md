@@ -18,18 +18,31 @@ Chirag Aggarwal</a></h1>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chirag-aggarwal-066b97248/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/ChiragAgg5k">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19668235/chiragagg5k">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19668235/chiragagg5k">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/chiragagg5k/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" https://twitter.com/ChiragAgg5k">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCXp47VbC0wQ_8pBKXwx-f2w">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+  <a style="margin-left: 10px;" target="_blank" https://twitter.com/ChiragAgg5k">
+   <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCXp47VbC0wQ_8pBKXwx-f2w">
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 </p>
+<br />
+
+<div align="center"> 
+
+[![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
+</div>
+
+<div align="center">
+<h1 align="center">Github Stats</h1>
+
+[![ChiragAgg5k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiragAgg5k&theme=radical)](https://github.com/ChiragAgg5k)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=gruvbox)](https://git.io/streak-stats)
+</div>
 
 [![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
