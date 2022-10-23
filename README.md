@@ -9,7 +9,6 @@ Chirag Aggarwal</a></h1>
 </a>
 
 <br />
-<br />
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
 
