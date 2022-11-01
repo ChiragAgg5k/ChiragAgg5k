@@ -38,9 +38,8 @@ Chirag Aggarwal</a></h1>
 <div align="center">
 <h1 align="center">Github Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=dark)](https://github.com/ChiragAgg5k/github-readme-stats)
-[![ChiragAgg5k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiragAgg5k&theme=radical)](https://github.com/ChiragAgg5k)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=gruvbox)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ChiragAgg5k's Github Stats](https://github-readme-stats.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=gruvbox)](https://git.io/streak-stats)
 
 </div>
 
