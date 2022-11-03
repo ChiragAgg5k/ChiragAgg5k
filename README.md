@@ -42,4 +42,8 @@ Chirag Aggarwal</a></h1>
 [![ChiragAgg5k's Github Stats](https://github-readme-stats.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=gruvbox)](https://git.io/streak-stats)
 
 </div>
+                  
+<h1 align="center">Holopin Badges</h1>
+
+[![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
 
