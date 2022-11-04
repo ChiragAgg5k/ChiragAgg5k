@@ -36,7 +36,7 @@ Chirag Aggarwal</a></h1>
 <br />
 
 <div align="center">
-<h1 align="center">Github Stats</h1>
+<h1 align="center">Github Stats⚡️</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ChiragAgg5k's Github Stats](https://github-readme-stats.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=gruvbox)](https://git.io/streak-stats)
@@ -44,7 +44,7 @@ Chirag Aggarwal</a></h1>
 </div>
 <br />
                   
-<h1 align="center">Holopin Badges</h1>
+<h1 align="center">Holopin Badges🦖</h1>
 
 [![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
 
