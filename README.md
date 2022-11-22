@@ -44,7 +44,7 @@ Chirag Aggarwal</a></h1>
 </div>
 <br />
                   
-<h1 align="center">Holopin Badges🦖</h1>
+<h1 align="center">Holopin Badges 🦖</h1>
 
 [![@chiragagg5k's Holopin board](https://holopin.me/chiragagg5k)](https://holopin.io/@chiragagg5k)
 
