@@ -15,8 +15,7 @@ Chirag Aggarwal</a></h1>
 - 📫 How to reach me **chiragaggarwal5k@gmail.com**
 <br>
 
-"The people who are crazy enough to think they can change the world <br>
-are the ones who do." - _Apple's **Think Different**_
+"The people who are crazy enough to think they can change the world are the ones who do." - _Apple's **Think Different**_
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
