@@ -10,9 +10,13 @@ Chirag Aggarwal</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
 
-- 🌱 I’m currently learning Java && C++ from <a href="https://www.udemy.com/course/java-the-complete-java-developer-course/" target="blank">Udemy</a>
+- 🌱 I’m currently learning about Data Structures and Algorithms.
 
 - 📫 How to reach me **chiragaggarwal5k@gmail.com**
+<br>
+
+"The people who are crazy enough to think they can change the world <br>
+are the ones who do." - _Apple's **Think Different**_
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
@@ -31,8 +35,6 @@ Chirag Aggarwal</a></h1>
     <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 </p>
-<br />
-<br />
 <br />
 
 <div align="center">
