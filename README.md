@@ -36,8 +36,7 @@ Chirag Aggarwal</a></h1>
 <div align="center">
 <h1 align="center">Github Stats⚡️</h1>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ChiragAgg5k's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![ChiragAgg5k's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 <br />
