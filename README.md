@@ -5,7 +5,8 @@ Chirag Aggarwal</a></h1>
 <br />
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+  
 </a>
 
 - 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Bennett University</a>
@@ -37,7 +38,7 @@ Chirag Aggarwal</a></h1>
 <div align="center">
 <h1 align="center">Github Stats⚡️</h1>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![ChiragAgg5k's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChiragAgg5k&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![ChiragAgg5k's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChiragAgg5k&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ChiragAgg5k&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 <br />
