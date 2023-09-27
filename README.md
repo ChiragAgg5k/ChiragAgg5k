@@ -29,7 +29,7 @@ Chirag Aggarwal</a></h1>
   <a style="margin-left: 10px;" target="_blank" https://twitter.com/ChiragAgg5k">
    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
   <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCXp47VbC0wQ_8pBKXwx-f2w">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
       </div>
 </p>
 <br />
