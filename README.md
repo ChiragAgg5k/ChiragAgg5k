@@ -3,7 +3,7 @@
 #### Full-Stack Developer | Open Source Enthusiast
 
 **Currently:** 
-- 💼 Full-Stack Developer @ [Strategy Connect](https://strategyconnect.co/)
+- 💼 Full-Stack Developer (Also into Computer Vision and Machine Learning)
 - 🎓 Student @ [Bennett University](https://www.bennett.edu.in/)
 
 **Tech Stack:** `.ts` `.py` `.html` `.css` `.java` `.cpp` `.json`
