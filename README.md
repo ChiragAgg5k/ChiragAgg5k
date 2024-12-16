@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### Full-Stack Developer | Open Source Enthusiast
+I am Chirag Aggarwal, a Full-Stack Developer and an Open Source Enthusiast
 
 **Currently:** 
-- 💼 Full-Stack Developer (Also into Computer Vision and Machine Learning)
-- 🎓 Student @ [Bennett University](https://www.bennett.edu.in/)
+- 💼 Engineering Intern @[Appwrite](https://appwrite.io/)
+- 🎓 Student @[Bennett University](https://www.bennett.edu.in/)
 
-**Tech Stack:** `.ts` `.py` `.html` `.css` `.java` `.cpp` `.json`
+**Tech Stack:** `.ts` `.js` `.py` `.java` `.c` `.cpp` `.php`
 
 **Connect:**
 - 🌐 [Portfolio](https://www.chiragaggarwal.tech/)
