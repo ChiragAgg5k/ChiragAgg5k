@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chirag Aggarwal, a Full-Stack Developer and an Open Source Enthusiast
+I am Chirag Aggarwal, a Backend Developer and an Open Source Enthusiast
 
 **Currently:** 
 - 💼 Platform Engineer @[Appwrite](https://appwrite.io/)
