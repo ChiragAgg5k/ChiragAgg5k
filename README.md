@@ -4,14 +4,19 @@ I am Chirag Aggarwal, a Platform Engineer and an Open Source Enthusiast
 
 **Currently:**
 - 💼 Platform Engineer @[Appwrite](https://appwrite.io/) — building scalable backend systems with open source tech
-- 🎓 B.Tech in Computer Science (AI) @[Bennett University](https://www.bennett.edu.in/) — graduated June 2026
+- 🎓 MSc in Software Engineering @[University of Limerick](https://www.ul.ie/) — started September 2026
+- 📍 Based in Limerick, Ireland
 
-**Tech Stack:** `.php` `.ts` `.js` `.py` — plus Docker, Kubernetes and Postgres
+**Previously:**
+- 🎓 B.Tech in Computer Science (AI) @[Bennett University](https://www.bennett.edu.in/) — graduated May 2026, 9.71 CGPA
+
+**Tech Stack:** `.php` `.go` `.ts` `.js` `.py` — plus Docker, Kubernetes and Postgres
 
 **Recent writing:**
+- [A Master's in Ireland While Building Appwrite](https://www.chiragaggarwal.tech/blog/a-masters-in-ireland-while-building-appwrite) — moving to Limerick for an MSc while staying full-time at Appwrite
+- [Appwrite MCP vs Vercel MCP: I benchmarked both](https://www.chiragaggarwal.tech/blog/appwrite-mcp-vs-vercel-mcp)
+- [Seven months of coding agents: what $28,335 actually bought](https://www.chiragaggarwal.tech/blog/seven-months-of-coding-agents)
 - [How I built the Appwrite MCP server](https://www.chiragaggarwal.tech/blog/how-i-built-the-appwrite-mcp-server) — OAuth 2.1, going stateless, and why the client only sees 4 tools out of 981
-- [How utopia-php/client keeps fixing our memory leaks](https://www.chiragaggarwal.tech/blog/how-utopia-php-client-keeps-fixing-our-memory-leaks)
-- [How we solved logging at Appwrite](https://www.chiragaggarwal.tech/blog/how-we-solved-logging-at-appwrite)
 - [All posts →](https://www.chiragaggarwal.tech/blog)
 
 **Connect:**
