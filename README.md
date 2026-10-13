@@ -7,9 +7,6 @@ I am Chirag Aggarwal, a Platform Engineer and an Open Source Enthusiast
 - 🎓 MSc in Software Engineering @[University of Limerick](https://www.ul.ie/) — started September 2026
 - 📍 Based in Limerick, Ireland
 
-**Previously:**
-- 🎓 B.Tech in Computer Science (AI) @[Bennett University](https://www.bennett.edu.in/) — graduated May 2026, 9.71 CGPA
-
 **Tech Stack:** `.php` `.go` `.ts` `.js` `.py` — plus Docker, Kubernetes and Postgres
 
 **Recent writing:**
