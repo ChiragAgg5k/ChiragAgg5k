@@ -12,7 +12,6 @@ I am Chirag Aggarwal, a Platform Engineer and an Open Source Enthusiast
 **Recent writing:**
 - [A Master's in Ireland While Building Appwrite](https://www.chiragaggarwal.tech/blog/a-masters-in-ireland-while-building-appwrite) — moving to Limerick for an MSc while staying full-time at Appwrite
 - [Appwrite MCP vs Vercel MCP: I benchmarked both](https://www.chiragaggarwal.tech/blog/appwrite-mcp-vs-vercel-mcp)
-- [Seven months of coding agents: what $28,335 actually bought](https://www.chiragaggarwal.tech/blog/seven-months-of-coding-agents)
 - [How I built the Appwrite MCP server](https://www.chiragaggarwal.tech/blog/how-i-built-the-appwrite-mcp-server) — OAuth 2.1, going stateless, and why the client only sees 4 tools out of 981
 - [All posts →](https://www.chiragaggarwal.tech/blog)
 
